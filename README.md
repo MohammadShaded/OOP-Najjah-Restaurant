@@ -5,8 +5,8 @@ sample is shown below:
 
 # this repo contains the following  
 1)the Project which contains 3 main views.  
-• Home view  
-• Payment view  
-• Category Management view.  
+    • Home view  
+    • Payment view  
+    • Category Management view.  
 
 2).pdf file , it contain the descreaption of the project.  

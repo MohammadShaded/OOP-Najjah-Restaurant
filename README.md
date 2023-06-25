@@ -9,4 +9,5 @@ sample is shown below:
     • Payment view  
     • Category Management view.  
 
-2).pdf file , it contain the descreaption of the project.  
+2).pdf file , it contain the descreaption of the project,and project interfaces of the project.
+  
